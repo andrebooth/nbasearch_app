@@ -1,6 +1,7 @@
 import React from 'react'
 import './App.css';
 import Form from './Components/Form'
+import Link from 'react-router-dom'
 
 
 function App() {
@@ -15,7 +16,14 @@ function App() {
   return (
     <div className="App">
       <h1>NBA Search Project</h1>
+
+      <nav>
+        <Link to= "NbaPlayers" element={<NbaPlayers/>}/>
+        <Link to= "/About" element={<About/>}/>
+      </nav>
       <Form/>
+
+
       
      
     </div>
