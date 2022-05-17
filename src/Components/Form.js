@@ -5,7 +5,7 @@ function Form() {
   return (
     <form>
     <label> Search for Player: </label>
-    <input type='search'></input>
+    <input type='search' placeholder="Search Player"></input>
     <button>Search Player</button>
     <button>Reset Search</button>
     </form>
