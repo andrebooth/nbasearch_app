@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/repository-name-goes-here/static/css/main.b63a89c7.css",
+    "main.js": "/repository-name-goes-here/static/js/main.b5482146.js",
+    "static/js/787.7b467fdf.chunk.js": "/repository-name-goes-here/static/js/787.7b467fdf.chunk.js",
+    "static/media/nba-logo-transparent.png": "/repository-name-goes-here/static/media/nba-logo-transparent.fb65b6aa3a203cca2dd7.png",
+    "index.html": "/repository-name-goes-here/index.html",
+    "main.b63a89c7.css.map": "/repository-name-goes-here/static/css/main.b63a89c7.css.map",
+    "main.b5482146.js.map": "/repository-name-goes-here/static/js/main.b5482146.js.map",
+    "787.7b467fdf.chunk.js.map": "/repository-name-goes-here/static/js/787.7b467fdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b63a89c7.css",
+    "static/js/main.b5482146.js"
+  ]
+}
