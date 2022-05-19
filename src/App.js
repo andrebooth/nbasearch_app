@@ -8,6 +8,7 @@ import Home from './Components/Home';
 import NbaPlayers from './Components/NbaPlayers'
 import Footer from './Components/Footer';
 import Form from './Components/Form';
+import Finals from './Components/Finals';
 
 
 
@@ -37,6 +38,7 @@ return (
         </Routes>
         
         {/* <NbaLogo /> */}
+        <Finals/>
         <Footer />
         
        

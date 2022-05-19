@@ -71,10 +71,10 @@ const updateSearchPlayer = (event) => {
       if(playerList!==null){
         playerDisplay = (
             <div>
-              <h2>Player Name: {obj[0].first_name} {obj[0].last_name}</h2>
-              <h3>Player Position: {obj[0].position}</h3>
-              <h3>Player Division: {obj[0].team.division}</h3>
-              <h3>Player Team: {obj[0].team.full_name}</h3>
+              <h2>Players Name: {obj[0].first_name} {obj[0].last_name}</h2>
+              <h3>Players Position: {obj[0].position}</h3>
+              <h3>Players Division: {obj[0].team.division}</h3>
+              <h3>Players Team: {obj[0].team.full_name}</h3>
               <h3>Players Conference: {obj[0].team.conference}</h3>
               
             </div>
