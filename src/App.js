@@ -4,8 +4,13 @@ import React from 'react'
 import './App.css';
 import Nav from './Components/Nav';
 import About from './Components/About';
-import NbaPlayers from './Components/NbaPlayers';
+import Home from './Components/Home';
+import NbaPlayers from './Components/NbaPlayers'
+import Footer from './Components/Footer';
 import Form from './Components/Form';
+
+
+
 import {BrowserRouter as Router, Switch, Route, Routes, Link } from 'react-router-dom';
 
 
@@ -20,6 +25,7 @@ return (
         {/* <Nav/> */} 
 
         <nav>
+        <Link to="/Home">Home</Link>
         <Link to="/about">About</Link>
         <Link to="/NBAPlayers">NBA Players</Link>
         </nav>
@@ -27,7 +33,11 @@ return (
         <Routes>
         <Route path="/about" element={<About/>} />
         <Route path="/NBAPlayers" element={<NbaPlayers/>} /> 
+        <Route path="/Home" element={<Home/>} /> 
         </Routes>
+        
+        {/* <NbaLogo /> */}
+        <Footer />
         
        
       

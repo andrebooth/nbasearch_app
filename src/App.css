@@ -7,7 +7,7 @@ Nav {
   justify-content: space-around;
   align-items: center;
   min-height: 12vh;
-  background: lightblue;
+  background: orange;
   color: orange;
 }
 
@@ -17,4 +17,28 @@ Nav {
   justify-content: space-around;
   align-items: center;
   list-style: none;
+  text-decoration: none;
+  color:
+}
+
+.Footer {
+ 
+  display: flex;
+  flex-direction: column;
+  margin-top: auto;
+  align-items:center;
+  background-color: rgb(36,72,142);
+  min-height: 12vh;
+ 
+ 
+}
+
+.Form {
+  min-height: 5vh;
+}
+
+.nba_logo{
+max-height: 100px;
+max-width: 100px;
+
 }
