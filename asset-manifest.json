@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/repository-name-goes-here/static/css/main.ff23b356.css",
-    "main.js": "/repository-name-goes-here/static/js/main.05cda7d5.js",
-    "static/js/787.7b467fdf.chunk.js": "/repository-name-goes-here/static/js/787.7b467fdf.chunk.js",
-    "static/media/Heat.png": "/repository-name-goes-here/static/media/Heat.6b67af741d2d2cd7cc7d.png",
-    "static/media/nba-logo-transparent.png": "/repository-name-goes-here/static/media/nba-logo-transparent.fb65b6aa3a203cca2dd7.png",
-    "static/media/Celtics.png": "/repository-name-goes-here/static/media/Celtics.6fae52f7db4a76837268.png",
-    "static/media/Mavericks.png": "/repository-name-goes-here/static/media/Mavericks.420fd67004b112ef1454.png",
-    "static/media/Warriors.png": "/repository-name-goes-here/static/media/Warriors.c24ddb22835200cd113b.png",
-    "index.html": "/repository-name-goes-here/index.html",
-    "main.ff23b356.css.map": "/repository-name-goes-here/static/css/main.ff23b356.css.map",
-    "main.05cda7d5.js.map": "/repository-name-goes-here/static/js/main.05cda7d5.js.map",
-    "787.7b467fdf.chunk.js.map": "/repository-name-goes-here/static/js/787.7b467fdf.chunk.js.map"
+    "main.css": "/nbasearch_app/static/css/main.ff23b356.css",
+    "main.js": "/nbasearch_app/static/js/main.9bf0b8e7.js",
+    "static/js/787.7b467fdf.chunk.js": "/nbasearch_app/static/js/787.7b467fdf.chunk.js",
+    "static/media/Heat.png": "/nbasearch_app/static/media/Heat.6b67af741d2d2cd7cc7d.png",
+    "static/media/nba-logo-transparent.png": "/nbasearch_app/static/media/nba-logo-transparent.fb65b6aa3a203cca2dd7.png",
+    "static/media/Celtics.png": "/nbasearch_app/static/media/Celtics.6fae52f7db4a76837268.png",
+    "static/media/Mavericks.png": "/nbasearch_app/static/media/Mavericks.420fd67004b112ef1454.png",
+    "static/media/Warriors.png": "/nbasearch_app/static/media/Warriors.c24ddb22835200cd113b.png",
+    "index.html": "/nbasearch_app/index.html",
+    "main.ff23b356.css.map": "/nbasearch_app/static/css/main.ff23b356.css.map",
+    "main.9bf0b8e7.js.map": "/nbasearch_app/static/js/main.9bf0b8e7.js.map",
+    "787.7b467fdf.chunk.js.map": "/nbasearch_app/static/js/787.7b467fdf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff23b356.css",
-    "static/js/main.05cda7d5.js"
+    "static/js/main.9bf0b8e7.js"
   ]
 }
