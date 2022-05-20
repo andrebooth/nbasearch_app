@@ -4,8 +4,8 @@ import {useState, useEffect } from 'react'
 import image from "./nba-logo-transparent.png";
 import Heat from "./Heat.png";
 import Warriors from "./Warriors.png";
-import Celtics from "./Celtics.png"
-
+import Celtics from "./Celtics.png";
+import Mavericks from "./Mavericks.png";
 
 
 
@@ -86,10 +86,12 @@ const updateSearchPlayer = (event) => {
       return (
       
             <div>
-              <img className="nba_logo"src={image} alt = "NBA Logo" />
+             
               <img className="Heat"src={Heat} alt = "Heat Logo" />
-              <img className="Warriors"src={Warriors} alt = "Warriors Logo" />
               <img className="Celtics"src={Celtics} alt = "Celtics Logo" />
+              <img className="nba_logo"src={image} alt = "NBA Logo" />
+              <img className="Warriors"src={Warriors} alt = "Warriors Logo" />
+              <img className="Mavericks"src={Mavericks} alt = "Mavericks Logo" />
               
               <h2>NBA Players</h2>
               <form className="Form" onSubmit={handleSubmit}>
